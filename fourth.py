@@ -1,5 +1,3 @@
-# fourth.py — doplňte tímto kódem funkci je_tah_mozny
-
 def in_bounds(pos):
     """Vrátí True, pokud je pozice v rozmezí 1..8."""
     r, c = pos
